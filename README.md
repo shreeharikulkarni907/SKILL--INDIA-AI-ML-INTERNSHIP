@@ -40,7 +40,8 @@ THIS REPOSITORY INCLUDES THE CODE, FOR VARIOUS ASSIGNMENTS AND PROJECTS WHICH I 
 
   # 2.WHO AM I?
 
-     My Name is SHREEHARI KULKARNI, I am Currently Pursuing My B tech Degree in Computer Science And Engineering From B.M.S College Of Engineering Bangalore
+     My Name is SHREEHARI KULKARNI, I am Currently Pursuing My B tech Degree in Computer Science And Engineering 
+     From B.M.S College Of Engineering Bangalore
 
 
 
