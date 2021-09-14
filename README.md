@@ -36,6 +36,28 @@ THIS REPOSITORY INCLUDES THE CODE, FOR VARIOUS ASSIGNMENTS AND PROJECTS WHICH I 
      1 USING JSON LIBRARY TO DUMP AND LOAD THE DATA FROM THE FILE
   
      2 FILE HANDLING FUNCTION
+     
+ # 2. OLYMPIC DATA ANALYSIS
+      # Files added:
+      
+      1 IPYNP FILE- Which has the code for the  OLYMPIC DATA ANALYSIS
+   
+      2 SUMMER.CSV: DataSet Of the olympic athletes
+      
+      # Features:
+      
+      1 Displays Some of the stats and records that has been set in the olympic so far
+      
+      # Skills Used:
+      
+      1: Python NUMPY Library
+      2: Python PANDAS Library
+      
+      
+      
+
+   
+
 
 
   # 2.WHO AM I?
