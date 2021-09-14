@@ -11,7 +11,7 @@ THIS REPOSITORY INCLUDES THE CODE, FOR VARIOUS ASSIGNMENTS AND PROJECTS WHICH I 
 
 # 1. INVENTORY MANAGEMNET SYSTEM
 
-   # Files added:
+      Files added:
       1 IPYNP FILE- Which has the code for the Inventory Management System 
    
       2 RECORD.JSON: Which has the all data of the items present in the INVENTORY
@@ -20,8 +20,7 @@ THIS REPOSITORY INCLUDES THE CODE, FOR VARIOUS ASSIGNMENTS AND PROJECTS WHICH I 
    
       4 BILL.JSON : Which the Bill Generated for the Customer whose bill has been generated
    
-
-  # Features:
+      Features:
       1 ADD AN ITEM TO THE INVENTORY
   
       2 DISPLAY ALL THE ITEMS IN THE INVENTORY
@@ -32,7 +31,7 @@ THIS REPOSITORY INCLUDES THE CODE, FOR VARIOUS ASSIGNMENTS AND PROJECTS WHICH I 
   
 
 
-  # Skills Used:
+     Skills Used:
      1 USING JSON LIBRARY TO DUMP AND LOAD THE DATA FROM THE FILE
   
      2 FILE HANDLING FUNCTION
